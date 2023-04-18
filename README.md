@@ -1,16 +1,7 @@
-# rubickk
+# Рубик
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Приложение предназначено для тех, кто хочет улучшить свой уровень знания русского языка или подготовиться к сдаче таких экзаменов, как ОГЭ, ЕГЭ, ЦТ или ЦЭ. Я разработал удобную систему, которая позволяет учить словарные слова и ударения в комфортном лично для вас темпе. 
+В каждом разделе есть большая база слов, которую пользователь может разбить на коллекции и учить по частям. Это поможет запомнить слова более эффективно и быстро.
+Кроме того, в каждой коллекции есть режим карточек. Который позволяет удобно и быстро учить словарные слова.
+Также в приложение есть тестирование, чтобы проверить свой прогресс и закрепить свои знания. Вы можете выбрать количество вопросов и проходить его в любое время. Рекомендую переодически проходить тестирование по коллекциям, слова в которых вы уже выучили. Это поможет не забыть выученную информацию.
+Более того, я уделил особое внимание удобству использования приложения. Интерфейс приложения интуитивно понятен и удобен в использовании. Вы сможете быстро найти нужное слово или коллекцию и начать учиться.
