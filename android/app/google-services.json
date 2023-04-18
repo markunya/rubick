@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814736863109",
+    "project_id": "rubickk-5f305",
+    "storage_bucket": "rubickk-5f305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814736863109:android:53d95f89aaea6b4d6b5eec",
+        "android_client_info": {
+          "package_name": "com.markuni.rubick.rubickk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814736863109-dur1n7sgja4hqttf40dlq64noesf628s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-WGIyPsOyI2bRdn6YckvTYWnxPPmymc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814736863109-dur1n7sgja4hqttf40dlq64noesf628s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
